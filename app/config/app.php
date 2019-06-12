@@ -14,9 +14,8 @@ return array(
 	*/
 
 	'debug' => false,
-	
-	//Set log file 
-	'log’=>’errorlog’,
+	'log'=>'errorlog',
+
 
 	/*
 	|--------------------------------------------------------------------------
@@ -81,7 +80,7 @@ return array(
 	|
 	*/
 
-	'key' => 'jKUzSQjFgvQ7kZhK49ukrdNIyWU7BG65',
+	'key' => 'CCbFJ8NYG3bPDDOf1IfvpSfUn9U7vfZO',
 
 	'cipher' => MCRYPT_RIJNDAEL_128,
 
